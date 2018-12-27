@@ -1,4 +1,4 @@
-# Bird-Oid
+# Bird-oid
 Bird flocking model (boid) is a numerical study programmed in MATLAB to observe the emergent complex group behavior 
 that can arise by applying simple rules to individual BOID (bird-oid object) agents. In the simplest model,
 the BOIDs were set to adhere to three simple rules, which were designed to model the global behavior of bird flocks. 
